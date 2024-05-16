@@ -15,7 +15,7 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
-PRODUCT_AAPT_PREF_CONFIG := xxhdpi
+PRODUCT_AAPT_PREF_CONFIG := xhdpi
 
 # Audio
 PRODUCT_PACKAGES += \
