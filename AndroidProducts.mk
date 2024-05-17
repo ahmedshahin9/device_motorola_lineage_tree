@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_penangf.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_penangf-user \
-    lineage_penangf-userdebug \
-    lineage_penangf-eng
+    lineage_penangf-ap1a-user \
+    lineage_penangf-ap1a-userdebug \
+    lineage_penangf-ap1a-eng
